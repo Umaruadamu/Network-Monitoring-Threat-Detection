@@ -210,7 +210,5 @@ This case study demonstrates:
 - Industrial cybersecurity awareness
 - Strategic translation of controls into resilience outcomes
 
----
 
-# Repository Structure
 
